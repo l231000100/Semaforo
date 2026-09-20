@@ -1,4 +1,4 @@
-# Semáforo Vehicular y Peatonal con Máquina de Estados Finitos
+# Semáforo Vehicular y Peatonal con Boton de permiso
 
 ## Descripción
 
