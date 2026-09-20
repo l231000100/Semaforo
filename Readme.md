@@ -34,7 +34,9 @@ El sistema cuenta con luces vehiculares de color rojo, amarillo y verde, luces p
 
 El diagrama muestra las conexiones utilizadas para implementar el semáforo vehicular y peatonal.
 
-![Diagrama del circuito](diagrama)
+![Diagrama del circuito](diagrama/diagrama-sema.png)
+
+![Diagrama del circuito Fisico](diagrama/semaforo-fisico.jpg)
 
 
 
