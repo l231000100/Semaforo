@@ -44,13 +44,13 @@ El programa implementa la máquina de estados finitos encargada de controlar las
 
 La temporización se realiza mediante `millis()` para evitar bloquear la ejecución del programa.
 
-[Ver código](Codigo/Semaforo.ino)
+[Ver código](codigo)
 
 ## Reporte
 
 El reporte contiene la explicación del funcionamiento del sistema, la metodología utilizada, el análisis de los resultados y las conclusiones obtenidas durante la práctica.
 
-[Ver Reporte](Reporte/Reporte.pdf)
+[Ver Reporte](informe)
 
 ## Resultados
 
