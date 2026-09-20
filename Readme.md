@@ -44,7 +44,7 @@ El programa implementa la máquina de estados finitos encargada de controlar las
 
 La temporización se realiza mediante `millis()` para evitar bloquear la ejecución del programa.
 
-[Ver código](codigo)
+[Ver código](codigo/semaforo.aia.ino)
 
 ## Reporte
 
