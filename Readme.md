@@ -50,7 +50,7 @@ La temporización se realiza mediante `millis()` para evitar bloquear la ejecuci
 
 El reporte contiene la explicación del funcionamiento del sistema, la metodología utilizada, el análisis de los resultados y las conclusiones obtenidas durante la práctica.
 
-[Ver Reporte](informe)
+[Ver Reporte](reporte/Reporte_Semaforo.pdf)
 
 ## Resultados
 
