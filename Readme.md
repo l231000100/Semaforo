@@ -66,7 +66,7 @@ Los resultados permitieron comprobar el funcionamiento tanto del circuito armado
 
 El video muestra el funcionamiento del semáforo vehicular y peatonal, incluyendo la respuesta del sistema ante la solicitud de cruce mediante el botón.
 
-[Ver video]([https://youtu.be/XfsUzSpZSHo](https://youtube.com/shorts/mciZtEBKvcg?feature=share))
+[Ver video](https://youtube.com/shorts/mciZtEBKvcg?feature=share)
 
 [Ver carpeta Video](video)
 
